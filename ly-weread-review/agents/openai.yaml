@@ -1,0 +1,4 @@
+interface:
+  display_name: "LY WeRead Review"
+  short_description: "把微信读书月报、年报和未来三十天计划整理到可换色的 Obsidian 看板"
+  default_prompt: "用 $ly-weread-review 做一份上个月的微信读书回顾，包含未来 30 天阅读计划。"
